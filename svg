@@ -7,7 +7,7 @@ script src="https://www.bookingboosters.com/js/gsap.min.js"></script>
 gsap.registerPlugin(MotionPathPlugin);
 
 gsap.to(".chef-nose", {
-	fill:"#fffffff",
+	fill:"red",
 	duration: 2,
 	stagger: {
 		yoyo: true,
